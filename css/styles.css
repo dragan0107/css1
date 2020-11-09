@@ -1,0 +1,185 @@
+body {
+  color: #40514E;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+  margin: 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Mali', cursive;
+  font-size: 2.7rem;
+font-weight: normal;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #40514E;
+}
+
+h3 {
+  font-family: 'Mali', cursive;
+  font-size: 2.7rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+.program {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.dripimg {
+  width: 200px;
+  margin-top: 70px;
+}
+
+.middle-container {
+  position: relative;
+  font-family: 'Mali', cursive;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 180px;
+  /* background-color: #E4F9F5; */
+}
+
+.bottom-container {
+  /* background-color: #E4F9F5; */
+  margin: 50px auto 0 auto;
+  padding-bottom: 0;
+}
+
+.stinker {
+  margin: 0;
+  padding: 10px;
+}
+
+hr {
+  display: inline-block;
+  margin: 30px auto 30px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 3%;
+}
+
+.flag {
+  width: 20%;
+  float: right;
+  margin-top: -10px;
+}
+.footer {
+  margin-top: 60px;
+  background-color: #66BFBF;
+  padding: 20px;
+}
+.footer a {
+  display: inline-block;
+  margin: 30px 20px 20px 20px;
+  font-family: 'Mali', cursive;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #40514E;
+}
+.footer a:hover{
+  color: white;
+}
+.pdrip {
+  margin: 40px auto 0 auto;
+  padding: 0;
+  color: white;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+.skill-img {
+  width: 20%;
+  text-align: center;
+}
+
+.about {
+  margin: 100px auto 150px auto;
+  text-align: left;
+  width: 50%;
+  line-height: 2;
+}
+.peepo {
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+.contact-me{
+  margin: 100px auto 30px auto;
+
+}
+
+.contact-me p {
+  margin-bottom: 60px;
+}
+
+
+
+
+.btn {
+  background: #aa34d9;
+  background-image: -webkit-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -moz-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -ms-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -o-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: linear-gradient(to bottom, #aa34d9, #2980b9);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Mali';
+  color: #ffffff;
+  font-size: 21px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcd6;
+  background-image: -webkit-linear-gradient(top, #3cfcd6, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfcd6, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfcd6, #3498db);
+  background-image: -o-linear-gradient(top, #3cfcd6, #3498db);
+  background-image: linear-gradient(to bottom, #3cfcd6, #3498db);
+  text-decoration: none;
+}
